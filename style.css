@@ -1,12 +1,10 @@
-body{
+body {
     background-color: #0D192B;
-    font-family: "Outfit, sans-serif";
+    font-family: "Outfit", sans-serif;
     justify-content: center;
     align-items: center;
     color: #fff;
-
 }
-
 .card{
    border: 1px solid #14253D;
    background-color: #14253D;
